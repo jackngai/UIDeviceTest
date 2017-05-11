@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		98235A751E9B2D8800328BE4 /* star hollow smaller star.png in Resources */ = {isa = PBXBuildFile; fileRef = 98235A741E9B2D8800328BE4 /* star hollow smaller star.png */; };
 		9853952B1E95883B00764A5D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9853952A1E95883B00764A5D /* AppDelegate.swift */; };
 		9853952D1E95883B00764A5D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9853952C1E95883B00764A5D /* ViewController.swift */; };
 		985395301E95883B00764A5D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9853952E1E95883B00764A5D /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		98235A741E9B2D8800328BE4 /* star hollow smaller star.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "star hollow smaller star.png"; sourceTree = "<group>"; };
 		985395271E95883B00764A5D /* UiDeviceTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UiDeviceTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9853952A1E95883B00764A5D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9853952C1E95883B00764A5D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				9853952A1E95883B00764A5D /* AppDelegate.swift */,
 				9853952C1E95883B00764A5D /* ViewController.swift */,
 				9853952E1E95883B00764A5D /* Main.storyboard */,
+				98235A741E9B2D8800328BE4 /* star hollow smaller star.png */,
 				985395311E95883B00764A5D /* Assets.xcassets */,
 				985395331E95883B00764A5D /* LaunchScreen.storyboard */,
 				985395361E95883B00764A5D /* Info.plist */,
@@ -124,6 +127,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				98235A751E9B2D8800328BE4 /* star hollow smaller star.png in Resources */,
 				985395351E95883B00764A5D /* LaunchScreen.storyboard in Resources */,
 				985395321E95883B00764A5D /* Assets.xcassets in Resources */,
 				985395301E95883B00764A5D /* Main.storyboard in Resources */,
@@ -304,6 +308,7 @@
 				9853953B1E95883B00764A5D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
